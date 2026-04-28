@@ -18,7 +18,7 @@ SET time_zone = "+00:00";
 /*!40101 SET NAMES utf8mb4 */;
 
 --
--- Base de datos: `centro_medico`
+-- Base de datos: `if0_41712668_centro_medico`
 --
 
 -- --------------------------------------------------------
